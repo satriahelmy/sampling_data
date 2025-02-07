@@ -1,4 +1,4 @@
-# sampling_data
+# Sampling_data
 
 Sampling data adalah sebuah script yang digunakan untuk mendownload sebuah data dan mengkonversinya menjadi data sampling dengan beberapa langkah.
 - mendownload data xlsx
